@@ -1,0 +1,10 @@
+name: fun-lecture-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.2
+  - ca-certificates
+  - openssl
+  - jupytext=1.13.7
+  - certifi
+  - jupyterlab=3.2.9
