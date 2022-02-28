@@ -1,4 +1,4 @@
-name: fun-lecture-env
+name: tts-ds-fundamentals-courses
 channels:
   - conda-forge
 dependencies:
